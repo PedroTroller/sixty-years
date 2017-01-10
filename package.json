@@ -5,6 +5,7 @@
     "bootstrap": "~3.3.4",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
     "gulp-csso": "^2.0.0",
     "gulp-debug": "^3.0.0",
     "gulp-if": "^2.0.2",
